@@ -59,6 +59,7 @@ function runFilter() {
   tbody.html("");
   
   // Now can add the data filtered on date to the table without it being added to full table of data
+  // This is the same as part 1
   filteredData.forEach((sighting) => {
     // add a table row for every sighting in the filtered date
     var row = tbody.append("tr");
