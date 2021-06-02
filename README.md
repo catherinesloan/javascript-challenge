@@ -17,7 +17,7 @@ To write code that will create a table dynamically based upon the [dataset](http
 
 **Part 1: Automatic Table and Date Search**
 
-[Click here](https://catherinesloan.github.io/javascript-challenge/UFO-level-1/index.html)
+[Click here to view deployed app](https://catherinesloan.github.io/javascript-challenge/UFO-level-1/index.html)
 
 
  1. A [HTML web page](https://github.com/catherinesloan/javascript-challenge/blob/main/UFO-level-1/index.html) 
@@ -34,7 +34,7 @@ To write code that will create a table dynamically based upon the [dataset](http
 
 **Part 2: Multiple Search Categories**
 
-[Click here] (https://catherinesloan.github.io/javascript-challenge/UFO-level-2/index.html)
+[Click here to view deployed app](https://catherinesloan.github.io/javascript-challenge/UFO-level-2/index.html)
 
 1. [JavaScript code](https://github.com/catherinesloan/javascript-challenge/blob/main/UFO-level-2/static/js/app.js) that allows the user can to set multiple filters and search for UFO sightings using the criteria based on the table columns
 
